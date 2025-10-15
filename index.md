@@ -4,7 +4,7 @@ description:
 ---
 <section class="hero">
 	<div class="text-container">
-		<h1 class="editable">Motion for Change</strong></h1>
+		<h1 class="editable">Motion for Change</h1>
 		<p class="subtext editable">Track and optimize your sales team in real time.</p>
 		<div class="cta button alt"><a href="{{ site.baseurl }}/contact/">Get Started Free</a></div>
 		<div>
