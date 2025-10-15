@@ -1,6 +1,6 @@
 ---
-title: Adaptor-Studio
-description: Motion design for social ecological change
+title: 
+description: 
 ---
 <section class="hero">
 	<div class="text-container">
